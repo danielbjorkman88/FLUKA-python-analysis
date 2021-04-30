@@ -1,0 +1,27 @@
+USRBIN           10.   DOSE-EQ      -50.     220.0     295.0    26888.LSS_1h
+USRBIN        -300.0     -155.     1291.      52.0      45.0     2560. &
+DCYSCORE          1.                        LSS_1h                    USRBIN
+USRBIN           10.   DOSE-EQ      -51.     220.0     295.0    26888.LSS_1d
+USRBIN        -300.0     -155.     1291.      52.0      45.0     2560. &
+DCYSCORE          2.                        LSS_1d                    USRBIN
+USRBIN           10.   DOSE-EQ      -52.     220.0     295.0    26888.LSS_1w
+USRBIN        -300.0     -155.     1291.      52.0      45.0     2560. &
+DCYSCORE          3.                        LSS_1w                    USRBIN
+USRBIN           10.   DOSE-EQ      -53.     220.0     295.0    26888.LSS_1m
+USRBIN        -300.0     -155.     1291.      52.0      45.0     2560. &
+DCYSCORE          4.                        LSS_1m                    USRBIN
+USRBIN           10.   DOSE-EQ      -54.     220.0     295.0    26888.LSS_2m
+USRBIN        -300.0     -155.     1291.      52.0      45.0     2560. &
+DCYSCORE          5.                        LSS_2m                    USRBIN
+USRBIN           10.   DOSE-EQ      -55.     220.0     295.0    26888.LSS_4m
+USRBIN        -300.0     -155.     1291.      52.0      45.0     2560. &
+DCYSCORE          6.                        LSS_4m                    USRBIN
+USRBIN           10.   DOSE-EQ      -56.     220.0     295.0    26888.LSS_6m
+USRBIN        -300.0     -155.     1291.      52.0      45.0     2560. &
+DCYSCORE          7.                        LSS_6m                    USRBIN
+USRBIN           10.   DOSE-EQ      -57.     220.0     295.0    26888.LSS_1y
+USRBIN        -300.0     -155.     1291.      52.0      45.0     2560. &
+DCYSCORE          8.                        LSS_1y                    USRBIN
+USRBIN           10.   DOSE-EQ      -58.     220.0     295.0    26888.LSS_1.5y
+USRBIN        -300.0     -155.     1291.      52.0      45.0     2560. &
+DCYSCORE          9.                      LSS_1.5y                    USRBIN
